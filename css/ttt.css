@@ -1,0 +1,20 @@
+.tile{
+  width: 80px;
+  height: 80px;
+  float: left;
+  border: solid black 1px;
+}
+.container{
+  width: 250px;
+}
+.red{
+  background-color:red;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.winner-notice{
+  font-size: 30px;
+}
