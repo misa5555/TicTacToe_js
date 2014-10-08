@@ -36,7 +36,6 @@
 
     if (this.game.isOver()) {
       this.$el.find('.tile').off('click');
-      debugger
       var winner = this.game.winner();
       if (winner) {
         console.log(winner);
